@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "73b1596e20af04cd7837d48da1c9a6bb",
+    "revision": "3141f68769da7ef3fec784d12f2c6cf7",
     "url": "/xmzhou/index.html"
   },
   {
-    "revision": "8a40741e646df2d18ed0",
+    "revision": "5d5afff477f600225440",
     "url": "/xmzhou/static/css/main.d1b05096.chunk.css"
   },
   {
-    "revision": "e4f5712f5dfebeddd389",
-    "url": "/xmzhou/static/js/2.1306d679.chunk.js"
+    "revision": "8d2a7aac2cad3b2af941",
+    "url": "/xmzhou/static/js/2.ec864b32.chunk.js"
   },
   {
     "revision": "d705cb622423d72c5defbf368ca70dcc",
-    "url": "/xmzhou/static/js/2.1306d679.chunk.js.LICENSE"
+    "url": "/xmzhou/static/js/2.ec864b32.chunk.js.LICENSE"
   },
   {
-    "revision": "8a40741e646df2d18ed0",
-    "url": "/xmzhou/static/js/main.21317e27.chunk.js"
+    "revision": "5d5afff477f600225440",
+    "url": "/xmzhou/static/js/main.c3d6c6cb.chunk.js"
   },
   {
     "revision": "3c7f21a07f77757642aa",
